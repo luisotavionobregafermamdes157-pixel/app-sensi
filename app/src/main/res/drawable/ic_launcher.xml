@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Black base with a dark red glow ring -->
+    <path android:fillColor="#090A0F" android:pathData="M0,0h108v108h-108z" />
+    <path
+        android:fillColor="#141018"
+        android:strokeColor="#671326"
+        android:strokeWidth="3"
+        android:pathData="M54,7 A47,47 0,1 1,53.9 7 Z" />
+    <path
+        android:fillColor="#0D0E14"
+        android:strokeColor="#FF304F"
+        android:strokeWidth="3.5"
+        android:pathData="M54,14 A40,40 0,1 1,53.9 14 Z" />
+
+    <!-- Aim reticle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF304F"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M54,20 L54,34 M54,74 L54,88 M20,54 L34,54 M74,54 L88,54" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#7D2034"
+        android:strokeWidth="2"
+        android:pathData="M54,37 A17,17 0,1 1,53.9 37 Z" />
+
+    <!-- Bold C mark -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F7F7FB"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M68,39 C63,32 56,29 49,31 C37,34 31,43 31,54 C31,65 37,74 49,77 C56,79 63,76 68,69" />
+    <path
+        android:fillColor="#FF304F"
+        android:pathData="M76,50 A4,4 0,1 1,75.9 50 Z" />
+    <path
+        android:fillColor="#FF304F"
+        android:pathData="M54,48 A6,6 0,1 1,53.9 48 Z" />
+</vector>
