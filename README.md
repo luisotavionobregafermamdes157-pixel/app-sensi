@@ -1,6 +1,6 @@
 # CAPA LAB Android
 
-Aplicativo Android para gerar configurações de sensibilidade do Free Fire, com interface offline dentro de WebView.
+Aplicativo Android para gerar configurações de sensibilidade do Free Fire, com interface offline dentro de WebView e ícone personalizado CAPA LAB em vermelho e preto.
 
 ## Gerar APK
 1. Abra a aba **Actions** deste repositório.
